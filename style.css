@@ -1,0 +1,41 @@
+#lens{
+    height:50px;
+    width:50px;
+}
+
+h1{
+    font-size:50px !important;
+    background-color: black;
+    color:white;
+    padding:20px;
+    width:80%;
+    border-radius:50px;
+    text-align:center;
+}
+
+body{
+    background-image: url(study.jpg);
+}
+
+.display{
+    background-color: cyan;
+    width:50%;
+    color:black;
+    border-radius: 50px;
+    padding:20px;
+    margin-left:130px;
+    text-align:center;
+    margin:50px;
+    border:black 5px dotted
+}
+
+.display h3{
+    font-size:50px !important;
+}
+
+.display label{
+    background-color: black;
+    padding:10px;
+    color:white;
+    border-radius:50px;
+}
